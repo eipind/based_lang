@@ -1,0 +1,8 @@
+ba$ed
+	x = 0$
+	while (amount_of_rows) > (x) do
+		y = wavy[x,0]dude$
+		x=((x)+(1))$ 
+		printing((y))$
+		print_newline()$ 
+	$$

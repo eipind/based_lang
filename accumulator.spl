@@ -1,0 +1,10 @@
+ba$ed
+	count = 0$
+	acc = 0$
+	while (count) < (amount_of_rows) do
+		elem = wavy[count,0]dude$
+		acc = ((acc) + (elem))$
+		printing((acc))$
+		print_newline()$
+		count=((count)+(1))$ 
+	$$
